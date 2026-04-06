@@ -2,6 +2,8 @@
 [![NSF-1948994](https://img.shields.io/badge/NSF-1948994-blue.svg)](https://nsf.gov/awardsearch/showAward?AWD_ID=1948994)
 [![NSF-1948857](https://img.shields.io/badge/NSF-1948857-blue.svg)](https://nsf.gov/awardsearch/showAward?AWD_ID=1948857)
 
+[![GitHub downloads](https://img.shields.io/github/downloads/OpenTopography/OT_3DEP_Workflows/total)](https://github.com/OpenTopography/OT_3DEP_Workflows/releases)
+
 # Reproducible scientific workflows for accessing, processing, and visualizing USGS 3DEP lidar data
 The U.S. Geological Survey 3D Elevation Program (3DEP) is acquiring high-quality light detecting and ranging (lidar) data over the conterminous United States, Hawaii, and US Territories to meet the growing need for high-resolution 3-D representations of Earth's surface, vegetation, and other constructed features.
 
